@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "incremental": true,                              
+    "target": "es2016",                               
+    "module": "commonjs",                             
+    "rootDir": "./",
+    "allowJs": true,                                  
+    "checkJs": true,                                  
+    "declaration": true,                              
+    "declarationMap": true,                           
+    "sourceMap": true,                                
+    "outDir": "./dist",                                   
+    "removeComments": true,                           
+    "esModuleInterop": true,                          
+    "forceConsistentCasingInFileNames": true,    
+    "allowSyntheticDefaultImports": true,     
+    "strict": true,                                   
+    "skipDefaultLibCheck": true,                      
+  },
+  "include": ["./*.ts"],
+  "exclude": ["node_modules/"]
+}
