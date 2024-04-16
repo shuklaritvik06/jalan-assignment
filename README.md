@@ -2,6 +2,14 @@
 
 This project is a Zoo Ticketing software built using Object-Oriented Programming (OOP) principles in Typescript. It provides a convenient way to manage ticket sales for a zoo, integrating various features for validation, user interface enhancement, and data management.
 
+| Label          | Screenshot                                 |
+|----------------|--------------------------------------------|
+| Question One   | ![Question One](screenshots/question.png) |
+| Ticket Creation| ![Ticket Creation](screenshots/creation.png)|
+| Expired        | ![Expired](screenshots/expired.png)       |
+| Verification   | ![Verification](screenshots/verification.png)|
+| Errors         | ![Errors](screenshots/errors.png)         |
+
 ## Features
 
 1. **ZOD Validations:**
